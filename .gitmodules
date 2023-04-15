@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "SMOTEWB"]
 	path = SMOTEWB
-	url = https://github.com/cran/SMOTEWB
+	url = https://github.com/fatihsaglam/smotewb
 	shallow = true
 	registered = true
