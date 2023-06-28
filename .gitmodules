@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "imbalanceDatRel"]
 	path = imbalanceDatRel
 	url = https://github.com/fatihsaglam/imbalancedatrel
-	shallow = true
-	registered = true
 [submodule "rcccd"]
 	path = rcccd
 	url = https://github.com/fatihsaglam/rcccd
-	shallow = true
-	registered = true
 [submodule "SMOTEWB"]
 	path = SMOTEWB
 	url = https://github.com/fatihsaglam/smotewb
-	shallow = true
-	registered = true
