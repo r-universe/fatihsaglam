@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SMOTEWB"]
+	path = SMOTEWB
+	url = https://github.com/fatihsaglam/smotewb
 [submodule "imbalanceDatRel"]
 	path = imbalanceDatRel
 	url = https://github.com/fatihsaglam/imbalancedatrel
 [submodule "rcccd"]
 	path = rcccd
 	url = https://github.com/fatihsaglam/rcccd
-[submodule "SMOTEWB"]
-	path = SMOTEWB
-	url = https://github.com/fatihsaglam/smotewb
