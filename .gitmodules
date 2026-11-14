@@ -8,6 +8,9 @@
 [submodule "imbalanceDatRel"]
 	path = imbalanceDatRel
 	url = https://github.com/fatihsaglam/imbalancedatrel
+[submodule "imbalanceKit"]
+	path = imbalanceKit
+	url = https://github.com/fatihsaglam/imbalancekit
 [submodule "rcccd"]
 	path = rcccd
 	url = https://github.com/fatihsaglam/rcccd
